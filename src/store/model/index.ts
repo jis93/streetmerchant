@@ -32,10 +32,12 @@ import {Azerty} from './azerty';
 import {BAndH} from './bandh';
 import {BestBuy} from './bestbuy';
 import {BestBuyCa} from './bestbuy-ca';
+import {Boulanger} from './boulanger';
 import {Box} from './box';
 import {Bpctech} from './bpctech';
 import {BpmPower} from './bpmpower';
 import {CanadaComputers} from './canadacomputers';
+import {Carrefour} from './carrefour';
 import {Caseking} from './caseking';
 import {Ccl} from './ccl';
 import {Centrecom} from './centrecom';
@@ -114,6 +116,7 @@ import {ProshopDK} from './proshop-dk';
 import {ProshopNO} from './proshop-no';
 import {Rosman} from './rosman';
 import {RosmanMelb} from './rosman-melb';
+import {Rueducommerce} from './rueducommerce';
 import {Saturn} from './saturn';
 import {SaveOnIt} from './saveonit';
 import {Scan} from './scan';
@@ -175,11 +178,13 @@ export const storeList = new Map([
   [BAndH.name, BAndH],
   [BestBuy.name, BestBuy],
   [BestBuyCa.name, BestBuyCa],
+  [Boulanger.name, Boulanger],
   [Box.name, Box],
   [Bpctech.name, Bpctech],
   [BpmPower.name, BpmPower],
   [Caseking.name, Caseking],
   [CanadaComputers.name, CanadaComputers],
+  [Carrefour.name, Carrefour],
   [Ccl.name, Ccl],
   [Centrecom.name, Centrecom],
   [Comet.name, Comet],
@@ -257,6 +262,7 @@ export const storeList = new Map([
   [ProshopNO.name, ProshopNO],
   [Rosman.name, Rosman],
   [RosmanMelb.name, RosmanMelb],
+  [Rueducommerce.name, Rueducommerce],
   [Saturn.name, Saturn],
   [SaveOnIt.name, SaveOnIt],
   [Scan.name, Scan],
