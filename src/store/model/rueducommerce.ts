@@ -43,22 +43,10 @@ export const Rueducommerce: Store = {
       url: 'https://www.rueducommerce.fr/p-geforce-rtx-3090-suprim-x-triple-fan-24go-msi-3202738-18279.html?articleOfferId=8839744'
     },
     {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3090',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-aorus-geforce-rtx-3090-master-triple-fan-24go-109085980?articleOfferId=9395770'
-    },
-    {
       brand: 'msi',
       model: 'mdr',
       series: '3090',
       url: 'https://www.rueducommerce.fr/produit/msi-geforce-rtx-3090-gaming-x-trio-triple-fan-24go-107537329?articleOfferId=9389950'
-    },
-    {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3090',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-geforce-rtx-3090-eagle-oc-24g-geforce-rtx-3090-24gb-gddr6x-triple-fan-107537294?articleOfferId=9389934'
     },
     {
       brand: 'zotac',
@@ -73,22 +61,10 @@ export const Rueducommerce: Store = {
       url: 'https://www.rueducommerce.fr/p-rog-strix-rtx-3090-triple-fan-24go-asus-3174202-18279.html?articleOfferId=8893818'
     },
     {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3090',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-geforce-rtx-3090-eagle-triple-fan-24go-109105167?articleOfferId=8893764'
-    },
-    {
       brand: 'msi',
       model: 'mdr',
       series: '3090',
       url: 'https://www.rueducommerce.fr/produit/msi-geforce-rtx-3090-oc-ventus-triple-fan-24go-107537336?articleOfferId=9389946'
-    },
-    {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3090',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-geforce-rtx-3090-vision-oc-triple-fan-24go-109105202?articleOfferId=8839736'
     },
     {
       brand: 'evga',
@@ -115,34 +91,16 @@ export const Rueducommerce: Store = {
       url: 'https://www.rueducommerce.fr/produit/pny-geforce-rtx-3090-xlr8-gaming-epic-x-rgb-triple-fan-24go-107537385?articleOfferId=4886602'
     },
     {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3090',
-      url: 'https://www.rueducommerce.fr/p-geforce-rtx-3090-aorus-xtreme-waterforce-24go-gigabyte-3211663-18279.html?articleOfferId=12849065'
-    },
-    {
       brand: 'asus',
       model: 'mdr',
       series: '3090',
       url: 'https://www.rueducommerce.fr/produit/asus-geforce-rtx-3090-tuf-gaming-triple-fan-24-go-107537357?articleOfferId=4889072'
     },
     {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3090',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-geforce-rtx-3090-gaming-oc-triple-fan-24go-107537301?articleOfferId=4889056'
-    },
-    {
       brand: 'evga',
       model: 'mdr',
       series: '3090',
       url: 'https://www.rueducommerce.fr/p-geforce-rtx-3090-xc3-gaming-triple-fan-24go-evga-3173924-18279.html?articleOfferId=8893820'
-    },
-    {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3090',
-      url: 'https://www.rueducommerce.fr/p-geforce-rtx-3090-aorus-xtreme-triple-fan-24go-gigabyte-3174082-18279.html?articleOfferId=8893814'
     },
     {
       brand: 'evga',
@@ -169,12 +127,6 @@ export const Rueducommerce: Store = {
       url: 'https://www.rueducommerce.fr/p-geforce-rtx-3080-suprim-x-triple-fan-10go-msi-3202726-18279.html?articleOfferId=8839738'
     },
     {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3080',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-geforce-rtx-3080-gaming-oc-triple-fan-10go-107537287?articleOfferId=9389938'
-    },
-    {
       brand: 'msi',
       model: 'mdr',
       series: '3080',
@@ -185,12 +137,6 @@ export const Rueducommerce: Store = {
       model: 'mdr',
       series: '3080',
       url: 'https://www.rueducommerce.fr/produit/evga-geforce-rtx-3080-xc3-ultra-gaming-triple-fan-10go-gddr6x-108855911?articleOfferId=8106328'
-    },
-    {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3080',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-geforce-rtx-3080-eagle-oc-triple-fan-10go-107537280?articleOfferId=9395154'
     },
     {
       brand: 'asus',
@@ -235,34 +181,16 @@ export const Rueducommerce: Store = {
       url: 'https://www.rueducommerce.fr/produit/zotac-geforce-rtx-3080-trinity-oc-10gb-gddr6x-108855834?articleOfferId=8106312'
     },
     {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3080',
-      url: 'https://www.rueducommerce.fr/p-geforce-rtx-3080-eagle-triple-fan-10go-gigabyte-3202964-18279.html?articleOfferId=8833218'
-    },
-    {
       brand: 'asus',
       model: 'mdr',
       series: '3080',
       url: 'https://www.rueducommerce.fr/produit/asus-geforce-rtx-3080-oc-tuf-gaming-triple-fan-10go-107537350?articleOfferId=4889070'
     },
     {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3080',
-      url: 'https://www.rueducommerce.fr/p-aorus-geforce-rtx-3080-master-triple-fan-10go-gigabyte-3173630-18279.html?articleOfferId=8848586'
-    },
-    {
       brand: 'pny',
       model: 'mdr',
       series: '3080',
       url: 'https://www.rueducommerce.fr/produit/pny-geforce-rtx-3080-xlr8-gaming-epic-x-rgb-triple-fan-10go-107537371?articleOfferId=4886598'
-    },
-    {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3080',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-geforce-rtx-3080-vision-oc-triple-fan-10go-108855820?articleOfferId=9395762'
     },
     {
       brand: 'pny',
@@ -325,22 +253,10 @@ export const Rueducommerce: Store = {
       url: 'https://www.rueducommerce.fr/p-geforce-rtx-3070-xc3-ultra-gaming-triple-fan-8go-evga-3203076-18279.html?articleOfferId=8839908'
     },
     {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3070',
-      url: 'https://www.rueducommerce.fr/p-geforce-rtx-3070-vision-oc-triple-fan-8go-gigabyte-3203052-18279.html?articleOfferId=8839900'
-    },
-    {
       brand: 'msi',
       model: 'mdr',
       series: '3070',
       url: 'https://www.rueducommerce.fr/p-geforce-rtx-3070-suprim-x-triple-fan-8go-msi-3202734-18279.html?articleOfferId=8839742'
-    },
-    {
-      brand: 'gigabyte',
-      model: 'mdr',
-      series: '3070',
-      url: 'https://www.rueducommerce.fr/produit/gigabyte-geforce-rtx-3070-eagle-oc-8g-triple-fan-8go-108855953?articleOfferId=8106316'
     },
     {
       brand: 'evga',
